@@ -1,0 +1,15 @@
+RECREATE PROCEDURE:
+
+Dependencies:
+
+1. testng
+2. rest-assured 4.4.0
+3. testng 7.4.0
+4. hamcrest
+5. json
+
+Instruction to setup:
+
+1. Create a maven project
+2. Inside add above 5 dependencies maven-compiler-plugin, maven-surefire-plugin, maven-resourse-plugin
+3. Run the scripts using Testng.
